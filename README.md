@@ -1,6 +1,6 @@
 # 🎒 AI-Based Backpack Detection & Posture Alert System
 
-**Developed by:** Fareedul Afrath 
+**Developed by:** Fareedul Afrath | B.Tech AI & DS
 
 ---
 

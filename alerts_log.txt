@@ -1,0 +1,8 @@
+2025-11-04 21:11:55 - ALERT: Backpack detected in image (schoolboy.png)
+2025-11-04 21:17:17 - ALERT: Backpack detected in image (schoolboy.png)
+2025-11-04 21:23:49 - HEAVY backpack detected (ratio=0.29)
+2025-11-04 21:30:06 - HEAVY backpack detected (ratio=0.29)
+2025-11-04 21:34:09 - HEAVY backpack detected (ratio=0.29)
+2025-11-04 21:38:26 - HEAVY BACKPACK DETECTED (ratio=0.29)
+2025-11-04 21:43:35 - HEAVY BACKPACK DETECTED (ratio=0.29)
+2026-04-07 16:19:10 - HEAVY BACKPACK DETECTED (ratio=0.29)
