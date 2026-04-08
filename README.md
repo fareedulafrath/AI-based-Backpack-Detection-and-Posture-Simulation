@@ -67,13 +67,13 @@ streamlit run parent_alert_dashboard.py
 
 ```
 PostureSimulation/
-├── ai_backpack_detection.py       # Main detection script (Final v2)
-├── detect_backpack_image.py       # Alternative detection module
-├── alert_dashboard.py             # Teacher alert dashboard
-├── parent_alert_dashboard.py      # Parent alert dashboard (Final v3)
-├── alerts_log.txt                 # Detection alerts log
-├── yolov8n.pt                     # YOLOv8 nano model (pre-trained)
-└── README.md                      # This file
+├── ai_backpack_detection.py       
+├── detect_backpack_image.py       
+├── alert_dashboard.py             
+├── parent_alert_dashboard.py      
+├── alerts_log.txt                 
+├── yolov8n.pt                     
+└── README.md                      
 ```
 
 ---
