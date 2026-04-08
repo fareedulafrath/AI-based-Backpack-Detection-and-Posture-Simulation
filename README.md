@@ -83,8 +83,8 @@ PostureSimulation/
 Edit the configuration section in `ai_backpack_detection.py`:
 
 ```python
-IMAGE_PATH = "schoolboy.png"             # Input image path
-OUTPUT_PATH = "annotated_schoolboy.png"  # Annotated output image
+IMAGE_PATH = " "            
+OUTPUT_PATH = " "  # Annotated output image
 CONF_THRESHOLD = 0.6                     # YOLO confidence (0-1)
 AREA_RATIO_THRESHOLD = 0.12              # Heaviness threshold (tune as needed)
 STUDENT_ID = "STU001"                    # Mock student ID
